@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Nishanth 👋
 
-<!--
-**gsnishanth/gsnishanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 What I’m focused on
+- Building and shipping practical projects
+- Writing clean, maintainable code
+- Learning continuously through hands-on development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gsnishanth&show_icons=true&theme=radical" alt="GitHub stats" height="170" />
+  <img src="https://streak-stats.demolab.com?user=gsnishanth&theme=radical" alt="GitHub streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsnishanth&layout=compact&theme=radical" alt="Top languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsnishanth&theme=react-dark" alt="Activity graph" />
+</p>
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🤝 Connect with me
+- GitHub: [@gsnishanth](https://github.com/gsnishanth)
+
+---
+Thanks for visiting my profile! 🚀
